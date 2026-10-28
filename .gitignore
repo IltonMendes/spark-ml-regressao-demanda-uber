@@ -1,0 +1,15 @@
+# Dados brutos: o notebook baixa da fonte original (não versionar)
+data/
+*.zip
+*.csv
+
+# Modelos salvos: gerados pelo notebook com save()
+modelos/
+
+# Artefatos do Spark / Jupyter
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+__pycache__/
+*.crc

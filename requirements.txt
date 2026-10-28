@@ -1,0 +1,5 @@
+# Testado com PySpark 4.2.1 + Java 21 (Spark 4.x exige Java 17 ou 21)
+pyspark>=3.5
+pandas>=2.0,<3.0
+matplotlib>=3.7
+jupyter
